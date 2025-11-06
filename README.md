@@ -16,7 +16,7 @@ Skilled in Agile, UAT, and release management — bridging the gap between busin
 
 <br>
 <div align="center">
-  <img src="banner/0_F4t8-xz-b98ZcvEH.gif" width="100%">
+  <img src="banner/0_F4t8-xz-b98ZcvEH.gif" width="75%">
 </div>
 
 
