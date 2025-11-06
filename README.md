@@ -14,6 +14,11 @@ Skilled in Agile, UAT, and release management — bridging the gap between busin
 
 🎓 4x Certified: Salesforce | Azure | Python | Postman
 
+<br>
+<div align="center">
+  <img src="banner/0_F4t8-xz-b98ZcvEH.gif" width="100%">
+</div>
+
 
 ## About Me
 
